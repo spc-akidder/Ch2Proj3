@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SchoolApp</string>
+    <string name="txtTitle">St. Petersburg College</string>
+    <string name="description">School Image</string>
+    <string name="infoButton">More Info</string>
+    <string name="logo">School Logo</string>
+    <string name="address">School Address</string>
+    <string name="phone">(727) 341-4772</string>
+</resources>
